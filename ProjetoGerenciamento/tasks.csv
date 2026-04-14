@@ -1,0 +1,52 @@
+id,descricao,data_vencimento
+1,Enviar relatório mensal para o gerente,2026-04-15
+2,Pagar conta de luz,2026-04-20
+3,Reunião com equipe de marketing,2026-04-18
+4,Backup dos arquivos do servidor,2026-04-25
+5,Atualizar planilha de gastos pessoais,2026-04-22
+6,Estudar capítulo 3 de Python,2026-04-16
+7,Comprar presente de aniversário para Maria,2026-04-19
+8,Agendar consulta médica,2026-04-23
+9,Organizar documentos para declaração de imposto,2026-04-30
+10,Enviar proposta comercial para cliente X,2026-04-17
+11,Revisar contrato de parceria,2026-04-21
+12,Limpar caixa de entrada de e-mails,2026-04-24
+13,Planejar viagem de férias,2026-05-02
+14,Instalar atualizações do sistema,2026-04-26
+15,Preparar apresentação para reunião de diretoria,2026-04-27
+16,Comprar mantimentos para casa,2026-04-15
+17,Revisar código do projeto open-source,2026-04-28
+18,Enviar feedback para equipe de suporte,2026-04-29
+19,Agendar revisão do carro,2026-05-01
+20,Organizar pastas no computador,2026-04-18
+21,Estudar inglês 1 hora,2026-04-19
+22,Pagar condomínio,2026-04-20
+23,Reunião com fornecedor,2026-04-21
+24,Backup fotos pessoais,2026-04-22
+25,Atualizar currículo,2026-04-23
+26,Estudar capítulo 4 de Python,2026-04-24
+27,Comprar material de escritório,2026-04-25
+28,Agendar reunião com RH,2026-04-26
+29,Organizar planilha de clientes,2026-04-27
+30,Enviar relatório financeiro,2026-04-28
+31,Revisar plano de marketing,2026-04-29
+32,Limpar mesa de trabalho,2026-04-30
+33,Planejar churrasco de família,2026-05-01
+34,Instalar antivírus,2026-05-02
+35,Preparar aula de Python,2026-05-03
+36,Comprar roupas novas,2026-05-04
+37,Revisar projeto acadêmico,2026-05-05
+38,Enviar artigo para revista,2026-05-06
+39,Agendar reunião com cliente Y,2026-05-07
+40,Organizar fotos da viagem,2026-05-08
+41,Estudar matemática,2026-05-09
+42,Pagar internet,2026-05-10
+43,Reunião com equipe de TI,2026-05-11
+44,Backup banco de dados,2026-05-12
+45,Atualizar site da empresa,2026-05-13
+46,Estudar capítulo 5 de Python,2026-05-14
+47,Comprar livros novos,2026-05-15
+48,Agendar reunião com diretoria,2026-05-16
+49,Organizar planilha de estoque,2026-05-17
+50,Enviar relatório de desempenho,2026-05-18
+

@@ -1,0 +1,24 @@
+🐍 Projeto 1 – Automação em Python
+Título: Gerenciador de tarefas automatizado
+
+Objetivo
+Criar um script em Python que lê uma lista de tarefas de um arquivo .csv ou banco de dados (MySQL/PostgreSQL) e automatiza notificações.
+
+Como funciona
+O script lê o arquivo tasks.csv e transforma cada linha em uma tarefa.
+
+Mostra todas as tarefas formatadas no terminal.
+
+Verifica quais vencem nos próximos 3 dias usando datetime.
+
+Exibe notificações no terminal.
+
+Futuramente pode enviar e-mails automáticos usando smtplib.
+
+Tecnologias usadas
+Python (csv, datetime, os, smtplib).
+
+Estrutura modular com funções bem definidas.
+
+Impacto
+Demonstra lógica de programação, manipulação de dados e automação de processos simples.
